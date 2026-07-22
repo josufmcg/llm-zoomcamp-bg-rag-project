@@ -1,0 +1,1 @@
+# src/bg_rag/api/__init__.py

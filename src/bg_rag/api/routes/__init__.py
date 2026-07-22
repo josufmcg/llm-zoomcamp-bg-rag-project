@@ -1,0 +1,1 @@
+# src/bg_rag/api/routes/__init__.py

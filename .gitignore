@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+models/
+data/ground_truth.csv
+*.onnx
+*.onnx_data
+
+# Environment
+.env
