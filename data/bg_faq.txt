@@ -1,0 +1,891 @@
+CHARECTER FAQ
+________________________________________________________________________________
+COPYRIGHT NOTICE
+All copyright goes to Dark Wolf alias David C. Hansen. This FAQ may be 
+published all over the
+net, as long as it is not modified in any way, and I am given credit. The 
+newest version can always
+be found on www.gamefaqs.com. You may not take money to show my FAQ, or sell 
+it. If I in this
+FAQ have done anything illegal, I would like to be noticed, before sued. 
+BALDUR'S GATE II:
+SHADOWS OF AMN: Developed and © 2000 BioWare Corp. BALDURS GAT II: THRONE OF
+BHAAL: Developed and © 2001 BioWare Corp. All Rights Reserved. Baldur's 
+Gate, Shadows of
+Amn, Forgotten Realms, the Forgotten Realms logo, Advanced Dungeons & 
+Dragons, the AD&D
+logo, and the Wizards of the Coast logo are trademarks owned by Wizards of 
+the Coast, Inc. and are
+used by Interplay under license. All Rights Reserved. BioWare, the BioWare 
+Infinity Engine and
+the BioWare logo are trademarks of BioWare Corp. All Rights Reserved. Black 
+Isle
+Studios and the Black Isle Studios logo are trademarks of Interplay 
+Entertainment Corp. All Rights
+Reserved. Exclusively licensed and distributed by Interplay Entertainment 
+Corp. All other
+trademarks and copyrights are property of their respective owners.
+________________________________________________________________________________
+This FAQ is for learning which characters to choose, and how to use the 
+different characters in and
+outside combat.
+_______________________________________________________________________________
+INDEX:
+1.	FIGTER
+2.	RANGER
+3.	PALADIN
+4.	BARBARIAN
+5.	CLERIC
+6.	DRUID
+7.	MONK
+8.	THIEF
+9.	BARD
+10.	MAGE
+11.	SORCERER
+________________________________________________________________________________
+W A R R I O R S:
+
+
+2. FIGHTER
+The fighter is a champion, swordsman, soldier, and brawler. He lives or dies 
+by his knowledge of
+weapons and tactics. Fighters can be found at the front of any battle, 
+contesting toe-to-toe with
+monsters and villains. A good fighter needs to be strong and healthy if he 
+hopes to survive.
+Special Abilities: Advanced Weapon Specialization
+Restrictions: None
+
+General Comments:
+Most groups should have a fighter, since they are the best hack and slasher 
+in the game. The fighters
+should be put in the front of any battle, where the fighting is most 
+intense.
+Recommended ability points: put 18 in dex and con if you can. Don't base 
+yourself so much on the
+strength, since the belts will give you that.
+Recommended race: half-ogre, for the better con, which can be a lifesaver 
+when there's a psycho
+mage around.
+
+BERSERKER:
+
+Advantages:
+May use Enrage ability once per day per 4 levels. While enraged: +2 to hit, 
++2 damage, -2 AC. The
+berserker at this time is immune to charm, hold, fear, maze, imprisonment, 
+stun and sleep. He also
+gains 15 hit points while enraged. These hit points are temporary, and are 
+taken away at the end of
+his berserk spree, possibly killing the berserker.
+
+Disadvantages:
+Becomes winded after berserking.
+While he's winded, he receives -2 to hit, -2 to damage and a +2 penalty to 
+AC.
+Cannot specialize in ranged weapons.
+
+Comments
+The prize of not being able to use long range is a cheap prize when you 
+consider the power of the
+berserk. Keep him where the battle is hottest, and use the berserk skill 
+when most needed.
+
+WIZARD SLAYER:
+
+Advantages:
+For each successful hit on an opponent,
+10% cumulative spell failure penalty is applied.
+4% magic resistance per level.
+20th level: gains 5% magic resistance every second level. Gains 1% every odd 
+level.
+Disadvantages:
+May not use any magic items except for weapons and armor.
+
+Comments:
+I'd say that the prize is too high. Wizards of any power, would have you 
+killed in no time, and if
+you want the magic resistance that badly, get a monk. Of course he is the 
+best for slaying mages, so
+if you really want him, take him. I'd take a regular fighter any day.
+
+KENSAI
+
+Advantages:
++1 to hit and +1 damage for every three levels.
+-2 bonus to AC.
+-1 bonus to speed factor for every 4 levels.
+May use Kai ability one time per day for every 4 levels (starts at 1st level 
+with one use). This ability
+lasts 10 seconds and makes all the attacks do maximum damage.
+
+Disadvantages:
+May not use missile weapons.
+May not wear armor.
+May not wear gauntlets or bracers.
+
+Comments:
+Dealing damage is this guy's special! Give him a greater whirlwind attack, 
+and the enemies are
+blown to pieces. Remember though, that this guy has low armor, so 18 in dex 
+will be really smart
+on this guy. Also specialize in a single-handed weapon (long sword or 
+katana), and put points into
+one-handed mastery, to get rid of that horrible armor class. When this is 
+done, send him into battle,
+and watch him kill ]:-)
+________________________________________________________________________________
+
+2. RANGER:
+
+The ranger is a hunter and a woodsman. He is skilled with weapons and is 
+knowledgeable in
+tracking and woodcraft. The ranger often protects and guides lost travelers 
+and honest peasant-folk.
+A ranger needs to be strong and wise in the ways of nature to live a full 
+life.
+Special Abilities: Weapon Specialization, Racial Enemy, Stealth, charm 
+person/mammal
+Restrictions: Human Elf or Half-Elf only, must be of Good alignment
+
+The Racial enemy gives a 4+ to THACO against your racial enemy. The racial 
+enemies that you
+can take are: Beholder, demonic/fell, dragon, elemental, ettercap, faerie, 
+genie, ghoul, golem,
+hobgoblin, imp, kobold, kuo-toa, lich, lycanthrope, mindflayer, ogre, 
+otyugh, rakshasa, sahuagin,
+shadow, slime, spider, troll, umber hulk, and vampire. I would recommend 
+vampire, dragon, or
+troll.
+
+ARCHER:
+
+The archer is the epitome of skill with the bow. He is the ultimate 
+marksman, able to make almost
+any shot, no matter how difficult. To become so skilled with the bow, the 
+archer has had to sacrifice
+some of his proficiency with melee weapons and armor.
+Special Abilities: Bonuses when using missile weapons. Called shots.
+Restrictions: Cannot wear metal armor. Can only be proficient in melee 
+weapons. At 18th level the
+to hit and damage bonus goes down to +1 per 5 levels.
+When he activates the called shot, every shot in the next 10 secs will have 
+the following abilities
+(depending on level of ranger):
+4th level: -1 to THACO of target
+8th level: -1 to save vs. magic of target
+12th: -1 to strength of target
+16th: +2 bonus to damage
+
+
+Comments: If you want to have anyone with long-range weapons, then this guy 
+should be your
+choice. Make him real strong (or wear any of the giant strength belts), give 
+him a good longbow,
+and you will see your enemies blood very quickly. Keep him with the 
+spell-casters in the back row.
+
+STALKER:
+
+Stalkers serve as covert intelligence-gatherers, comfortable in both 
+wilderness and urban settings.
+They are the spies, informants and interrogators and their mastery of 
+stealth makes them deadly
+opponents.
+12th level: All the mage spells gained are memorized as priest spells
+Special Abilities: Can backstab like a thief. Has access to a small amount 
+of mage spells.
+Restrictions: Cannot wear armor greater that studded leather.
+
+The spells are: haste, protection from normal missiles, and minor spell 
+deflection.
+
+Comments:
+Of course the backstab multiplier can make the damage count, but the prize 
+of good armor seems
+just a little bit to high. If you want him make sure to have him go into 
+stealth at all times, so he can
+start the battle with a nice little backstab, and hopefully a dead enemy.
+
+BEAST MASTER
+This ranger is a wanderer and is not comfortable in civilized lands. He 
+maintains a natural affinity
+for animals; they are his friends and com-rades-in-arms, and the Beast 
+Master has a limited form of
+telepathic communication with them.
+Special Abilities: Can summon natural animals to his aid.
+Restrictions: Cannot use metal weapons.
+
+Comments:
+Summon animals to do the damage instead of your self. Sounds nice don't it? 
+Well, it isn't. The
+animals are way to weak at the later levels. Drop him. If you want to 
+summon, take a druid, or a
+mage!
+________________________________________________________________________________
+
+3. PALADIN
+A paladin is a warrior bold and pure, the exemplar of everything good and 
+true. Like the fighter, the
+paladin is a man of combat. However, the paladin lives for the ideals of 
+righteousness, justice,
+honesty, piety and chivalry. He strives to be a living example of these 
+virtues so that others might
+learn from him as well as gain by his actions.
+Special Abilities: Weapon Specialization, Lay Hands, Turn Undead, +2 all
+Saving Throws, Protection from Evil, Detect Evil
+Restrictions: Human only, must maintain Lawful Good alignment
+
+General Comments:
+The paladin is a decent fighter, his touch can heal instantaneously, and he 
+can cast supporting priest
+spells. Do I really need to say more?
+
+CAVALIER
+This class represents the most common picture of the knight; the gentleman 
+warrior who epitomizes
+honor, courage and loyalty. He is specialized in battling "classical" evil 
+monsters such as demons
+and dragons.
+Special Abilities: Bonus to hit demons and dragons, immune to fear and 
+poison. 20% resistance to
+fire/acid.
+Restrictions: Cannot use missile weapons.
+
+Comments:
+My favorite paladin kit! He's immune to a lot of stuff, and if you want to 
+fire missile weapons, take
+an archer. This guy kicks butt! A lot of the strong monsters are demons, so 
+he's a killer in almost
+any strong monster battle.
+
+INQUISITOR (Paladin Kit)
+The Inquisitor has dedicated his life to finding and eliminating 
+practitioners of evil magic and
+defeating the forces of darkness and his god has provided him with special 
+abilities towards that
+end.
+Special Abilities: Immune to hold and charm. True sight, dispel magic.
+Restrictions: May not use 'lay on hands' ability, may not cast priest 
+spells, may not turn undead,
+may not use 'cure disease' ability.
+
+Comments:
+This is a choice, 'cos the Inquisitor is not really a paladin, giving up all 
+the paladin skills, but his
+skills are still very useful. When I've had this guy in my party, I found 
+his skills great in almost
+every battle with a mage in it.
+
+UNDEAD HUNTER (Paladin Kit)
+This holy avenger has honed his abilities towards the destruction of the 
+undead and other unnatural
+creatures and is immune to many of their more devastating abilities.
+Special Abilities: Immune to hold and level drain. Bonus to hit and damage 
+vs. undead.
+Restrictions: May not use lay on hands
+
+Comments:
+The game contains tons of undeads, and here we have the perfect killer of 
+them. In battle with
+undeads, he'll turn the weak, and then kill the powerful. The lay hands 
+ability is really great,
+healing instantaneously, but it can be replaced by the healing spells if 
+need be.
+________________________________________________________________________________
+
+4. BARBARIAN
+A barbarian can be an excellent warrior. While not as disciplined or as 
+skilled as a normal fighter,
+the barbarian can willingly throw himself into a berserker rage, becoming a 
+tougher and stronger
+opponent.
+Special Abilities: Fast movement, berserker rage, high hit points.
+Restrictions: Cannot wear full plate, plate mail. Can't specialize past 
+normal specialization.
+
+Comments:
+A great crash dummy! Make the enemies hit him, and the let your other 
+characters do some serious
+damage. This tactic actually lets your paladin cast spells in the middle of 
+a battle.
+________________________________________________________________________________
+
+P R I E S T S:
+________________________________________________________________________________
+
+5. CLERIC:
+The cleric is a generic priest (of any mythos) who tends to the spiritual 
+needs of a community. He is
+both protector and healer. He is not purely defensive, however. When evil 
+threatens, the cleric is
+well suited to seek it out on its own ground and destroy it.
+Special Abilities: Turn Undead, Spell Casting
+Restrictions: Cannot use bladed or piercing weapons.
+Level 25: Gains holy symbol from his good, which gives the following 
+abilities:
++ 1 STR, % magic resistance, memorizes one extra level 6 and 7 spell.
+Recommended race: dwarf, since you can't use any really good two-handed 
+weapons anyway, and
+the ring of human influence can negate the charisma penalty found in the 
+circus.
+
+General Comments.
+You should keep the cleric in the back, casting supporting spells like 
+chant, healing, and doing
+damage with the spells (like bolt of glory and holy smite). The cleric can 
+also be quite a good
+fighter if you remember to cast spells like, draw upon holy might, spiritual 
+hammer, and stoneskin,
+first.
+Level 25: Gains holy symbol from his good, which gives the following 
+abilities:
++ 1 STR, % magic resistance, memorizes one extra level 6 and 7 spell.
+
+SPECIALTY PRIEST OF TALOS
+Talos is the evil god of storms, destruction and rebellion. Clerics of the 
+Stormlord warn that Talos
+must be appeased or he will rain destruction upon the land.
+Special Abilities: Casts Lightning bolt, Stormshield
+Restrictions: None.
+
+Stormshield protects against lightning, fire, cold, and normal missiles.
+
+Comments:
+If you want to go evil, then this is the way, and the stormshield can be 
+very useful, but I never use
+lightning, because of the annoying bouncing effect.
+
+SPECIALTY PRIEST OF HELM
+Followers of the neutral God of Watchers and Protectors are warriors in 
+their own right and are
+often seen as defenders of the innocent.
+Special Abilities: Casts True sight, Seeking sword.
+Restrictions: None.
+
+Comments:
+The way for the neutral. The seeking sword (like mordenkain's sword) can be 
+very powerful,
+drawing the attention in another way. True sight is nice when the thieves 
+and the mages are
+annoying you. My favorite.
+
+SPECIALTY PRIEST OF LATHANDER
+Lathander is the good god of renewal, creativity and youth, and is 
+celebrated nearly everywhere.
+His followers are very popular throughout the Realms and there are numerous 
+wealthy temples
+devoted to Him.
+Special Abilities: Casts Hold undead, Boon of Lathander.
+Restrictions: None.
+
+Comments:
+The good way. Hold undead is ok, and Boon of Lathander is really great, 
+making your cleric a
+young, renewed and creative fighter.
+________________________________________________________________________________
+
+6. DRUID:
+The druid serves the cause of nature and neutrality; the wilderness is his 
+community. He uses his
+special powers to protect it and to preserve balance in the world.
+Special Abilities: Shape Change, Spell Casting
+Restrictions: Human or Half-Elf only; leather armor and bucklers only; can 
+only wield clubs, darts,
+spears, daggers, slings, and staffs.
+Level 15: Immune to poison
+Level 18: 10% resistance to environmental damage (fire, cold, electricity, 
+and  acid).
+Level 21: 20% resistance to environmental damage (fire, cold, electricity, 
+and acid).
+Level 24: 30% resistance to environmental damage (fire, cold, electricity, 
+and acid).
+
+General comments:
+Much like the cleric, even though the spell selection is more summoning 
+based. The shape-change
+is good in the start of the game. The druid is more spell-minded, because of 
+the limited weapon and
+armor selection, and the fewer support spells.
+
+TOTEMIC DRUID
+This druid closely identifies with a particular animal; an animal that he 
+feels represents his spirit.
+This grants him a special connection to the animal kingdom and he is able to 
+call upon their spirits
+to aid him.
+Special Abilities: Summon spirit animal.
+Restrictions: Cannot shapeshift.
+
+Comments:
+This druid is certainly better then the normal druid. The spirit animals are 
+more powerful than the
+shapeshift forms, and you can cast spells while the animals attack. The 
+Americans should be glad
+that the Indians couldn't summon creatures like these.
+
+AVENGER (Druid Kit)
+A member of a special sect within the Druidic order, a druid of this type is 
+dedicated to fighting
+those who would defile nature. Avengers have powers the average druid does 
+not; additional
+abilities that have been earned through extensive rituals, a process that is 
+very physically draining.
+Special Abilities: May shapechange into normal forms, as well as those of 
+sword spider, baby
+wyvern and fire salamander. May cast a limited selection of mage spells.
+Restrictions: -2 to strength and constitution.
+
+Spells (one per level:
+1st: Chromatic Orb
+2nd: Web
+3rd: Lightning Bolt
+4th: Improved Invisibility
+5th: Chaos
+6th: Chain Lightning
+
+Comments:
+The new shapeshifting forms aren't worth it. They're weak, even though 
+stronger than the original.
+The mage-spells are the only things saving this character form total 
+screw-up. Chain lightning and
+chaos are two very powerful spells, but do you really think that they are 
+the low strength and
+constitution worth?
+
+SHAPESHIFTER (Druid Kit)
+This druid is not called Shapeshifter because he has access to a great 
+variety of forms, rather
+because of his complete dedication to a single alternate form. This druid 
+has willingly allowed
+himself to become infected with Lycanthrope, but due to intense study and 
+training he has the
+ability to control his affliction. The creature he becomes is that of the 
+Werewolf, the most famous of
+the lycanthrope shape changers.
+Special Abilities: Shape change into werewolf
+Restrictions: Cannot wear armor, cannot shapechange into any other
+forms.
+
+Comments:
+The best druid kit. The werewolf is really powerful, and when you get the 
+greater at level 13, you
+are going to kick so much but. The no armor thing won't really affect you, 
+since you'll be hand-to-
+hand fighting in the werewolf-form.
+________________________________________________________________________________
+
+7. MONK:
+Monks are warriors who pursue perfection through contemplation as well as 
+action. They are
+versatile fighters, especially skilled in combat without weapons or armor. 
+Though monks cannot
+cast spells, they have a unique magic of their own. They channel a subtle 
+energy, called ki, which
+allows them to perform amazing feats. The monk's best known feat is their 
+ability to stun an
+opponent with an unarmed blow.
+Special Abilities: Martial arts, magic resistance, fast movement, lay on
+hands, thief abilities (stealth and detect traps).
+Restrictions: Cannot wear armor, cannot use two-handed weapons.
+
+A monk's natural armor class gets better as he goes up in levels. His armor 
+class starts off at 9, and
+then decreases by 1 for every 2 levels. Stunning blow, once per day for 
+every 4 levels. All attacks in
+the next 6 seconds force the victim to save or be stunned. Note: This 
+special ability automatically
+modifies a monk's normal attack, no targeting needs to be done.
+Monks have the Deflect Missiles ability. This gives them a -1 to their AC 
+Vs. missiles for every 3
+levels.
+The monk gains a +2 to save vs. spells.
+A monk starts off moving at +2 move, then +1 move every 5 levels.
+5th level: Immunity to all diseases, and cannot be Slowed or Hasted.
+7th level: Lay on Hands to heal 2 hit points per level.
+8th level: -1 to speed factor.
+9th level: +1 to all saves. Immune to charm. The monk's fist is considered a 
++1 weapon (+2 at 12th,
++3 at 15th).
+11th level: Immune to poison.
+12th level: Another -1 to speed factor.
+13th level: Quivering Palm spell once per day. This spell gives them one 
+hand attack. If they hit an
+opponent, the opponent must save or die.
+14th level: The monk gains 3% magic resistance per level (i.e. 42% at 14th 
+level) Stops at 78%.
+20th level: Immune to non-magical weapons.
+21st Level: +1 AC
+24th Level: +2 AC
+25th Level: Fists +4 weapons
+27th Level: +3 AC
+30th Level: +4 AC
+35th Level: +5 AC
+40th Level: +6 AC
+
+Damage increase:
+Level 1-2: 1-6
+Level 3-5: 1-8
+Level 6-8: 1-10
+Level 9-14:1-12
+Level 15+: 1-20
+
+Comments:
+One of my favorite classes! The magic resistance is always nice, and with a 
+high dex, the armor
+class will be OK. This guy has 4 attacks per round! The stunning blows are 
+ok, but I didn't use 'em
+much. The quivering palm is really great to destroy a greater malison'ed 
+monster.
+________________________________________________________________________________
+
+R O G U E S:
+________________________________________________________________________________
+
+8. THIEF:
+To accomplish his goals, for good or ill, the thief is a skilled pilferer. 
+Cunning, nimbleness and
+stealth are his hallmarks. Whether he turns his talent against innocent 
+passers-by and wealthy
+merchants or oppressors and monsters is a choice for the thief to make. 
+There are seven thief
+abilities in Baldur's Gate II. At first level a thief character will receive 
+30 points to allocate among
+his abilities. Every level thereafter he will gain an extra 20 points. See 
+Table 2 on pg 138 in the
+manual to see how a thief's abilities are modified according to race and 
+dexterity.
+Special Abilities: Open locks, find traps, pick pockets, move silently, hide 
+in shadows, detect
+illusions and set traps.
+Restrictions: Cannot be of Lawful Good alignment; cannot wear any armor 
+other than leather or
+studded leather; cannot use any shield except for bucklers; can only wield 
+clubs, daggers, darts,
+crossbows, short bows, slings, long swords, short swords and quarterstaffs.
+Recommended race: halfling. A halfling with 18 dex could steal the filling 
+in a dragon's molar,
+sneak away, and have the hole cave filled with traps before the dragon even 
+discovers a thing.
+
+
+General Comments:
+A party without a thief will very soon be a dead part, since the thief are 
+the only class that can
+actually remove traps. Start of by trying to get detect trap, and open locks 
+up to 100. Then you can
+either concentrated on hide in shadows and move silently, so you can become 
+a good backstabber
+(there's nothing like a blade between the shoulder blades), or you can 
+concentrate on the traps and
+the detect illusions, and stay in the back with a crossbow or a short bow. 
+Without TOB, the thief is
+only fairly good, but with TOB, the thief can create scrolls, potions, use 
+any item, evade attacks,
+and the new traps are real killers :-)
+
+ASSASSIN:
+This is a killer trained in discreet and efficient murder, relying on 
+anonymity and surprise to
+perform his task.
+Special Abilities: Use poison, combat bonuses
+Restrictions: Penalty to thief skills
+
+Comments:
+What is this guy? A thief or a black widow? Give me a monk instead; better 
+damage and better thief
+skills (if you a haven't noticed, I don't like this kit).
+
+BOUNTY HUNTER (Thief Kit)
+This is a hunter of men, skilled in tracking quarry and bringing them back 
+alive - whether for lawful
+authorities or underworld masters. Bounty Hunters are specially trained at 
+their task and make
+fearsome opponents. They have honed their trap making abilities well beyond 
+that of the average
+thief.
+Special Abilities: Special trap setting
+Restrictions: Penalty to thief skills
+Special traps and what level they come at:
+1st: Damages and slows target unless saving throw is succeeded.
+11th: Casts hold on target unless saving throw is succeeded
+16th: Casts Otiluke's resilient sphere on target.
+21st: Casts Maze on target.
+
+Comments:
+If you want to go the trapping way, then this is your man; the new traps are 
+really useful.
+
+SWASHBUCKLER (Thief Kit)
+This rogue is part acrobat, part swordsman and part wit: the epitome of 
+charm and grace.
+Special Abilities: Combat bonuses
+Restrictions: Cannot backstab
+
+Comments:
+This guy is the only person (except the blade) who can put three into the 
+two-weapon fighting style.
+This and the combat bonuses makes him a great attacker, so if you can live 
+without the 4x backstab,
+this should be your thief choice.
+________________________________________________________________________________
+
+9. BARD
+The bard is also a rogue, but he is very different from the thief. His 
+strength is his pleasant and
+charming personality. With it and his wits he makes his way through the 
+world. A bard is a talented
+musician and a walking storehouse of gossip, tall tales and lore. He learns 
+a little bit about
+everything that crosses his path; he is a jack-of-all- trades but master of 
+none. While many bards are
+scoundrels, their stories and songs are welcome almost everywhere.
+Special Abilities: Pick Pockets, Bard Songs, Spell Casting, High Lore 
+ability.
+Restrictions: Human and Half-Elf only; must be of partially Neutral 
+alignment; cannot use a shield
+or armor heavier than chain mail.
+
+General Comments:
+With a bard in your party, identify is a thing of the past. This guy knows 
+almost everything there is
+to know about items. The bard songs are nifty, making all your attackers 
+regular monsters (I wish I
+could play on a harp like that). The spells are normally low-level, but 
+there's nothing to equal the
+odds in a battle like chaos, or greater malison. The bard also has access to 
+the same TOB abilities as
+the thief, and even some only for the bard. For instance there's an improved 
+bard song, that's way
+better than the usual.
+
+BLADE
+The Blade is an expert fighter and adventurer whose bardic acting abilities 
+make him appear more
+intimidating and fearsome. His fighting style is flashy and entertaining, 
+but is also quite deadly.
+Special Abilities: Offensive spin, defensive stance.
+Restrictions: Only has one-half normal lore value, only has one-half pick 
+pockets percentage; bard
+song does not become better with levels.
+
+Comments:
+The blade is kind of weak, giving up his bardic abilities, and trading them 
+for the offensive and
+defensive spin and the three skill points in two weapon fighting, simply 
+isn't worth it. Take a multi-
+class swashbuckler/mage instead if you can't live without the magic.
+
+JESTER
+This bard is well versed in the arts of ridicule and hilarity, and uses his 
+abilities to distract and
+confuse his enemies, cavorting madly during combat. Do not mistake him for a 
+true fool, however,
+as he can also be quite deadly.
+Special Abilities: Song will confuse enemies instead of giving bonuses to 
+allies.
+Restrictions: None.
+
+Comments:
+The confusing ability is really need, unless you fight undead, whom you 
+can't confuse. Not much
+else to say about the jester. Whether you want the confusion or the better 
+fighters is totally up to
+you.
+________________________________________________________________________________
+
+W I Z A R D S:
+________________________________________________________________________________
+
+10. MAGE:
+The mage strives to be a master of magical energies, shaping them and 
+casting them as spells. To do
+so, he studies strange tongues and obscure facts and devotes much of his 
+time to magical research.
+A mage must rely on knowledge and wit to survive. Mages are rarely seen 
+adventuring without a
+retinue of fighters and men-at-arms. Because there are different types (or 
+schools) of magic, there
+are different types of mages. The generalist mage studies all types of magic 
+and learns a wide
+variety of spells. His broad range makes him well suited to the demands of 
+adventuring.
+Special Abilities: Spell Casting.
+Restrictions: cannot wear armor, can only wield daggers, staffs, darts, and 
+slings.
+
+General comments:
+The mage is really powerful, using magic that the clerics can only dream 
+about. He has a broad
+selection of spells, all with there own special and powerful ability. He can 
+turn people to dust,
+become invisible, and even stop the flow of time itself, or summon the head 
+of an angry dragon.
+Keep him in the back and let him cast his spell from there.
+Recommended ability points: 18 in int, and a high wis would also be good if 
+you plan to use spells
+like wish and limited wish.
+
+SPECIALIST MAGES
+Mages that specialize in a specific school of magic are allowed to memorize 
+an extra spell of each
+level (once they are able to use spells of the appropriate level). They are 
+prohibited from learning
+spells in their opposition schools, and cannot be combined in a multi-class 
+character (though
+gnomish characters can become Fighter/Illusionists). Human specialist mages 
+can dual class if they
+wish. See Table 4 on pg 139 in the manual for opposition schools. Abjurer: A 
+mage who specializes
+in protective magics. Conjurer: A mage who specializes in creating creatures 
+and objects to assist
+him. Diviner: A mage who specializes in detection and divining magics. 
+Enchanter: A mage who
+specializes in manipulating the minds of sentient beings. Illusionist: A 
+mage who specializes in
+creating illusions to confuse and mislead. Invoker: A mage who specializes 
+in Invocation/Evocation
+magic. Necromancer: A mage who specializes in magic dealing with death. 
+Transmuter: A mage
+who specializes in magic that alters physical reality.
+
+Comments:
+I'd take the necro (Abi-dlazim's horrid wilting, wail of banshee), or the 
+conjurer (the power word
+spells, the symbol spells, and all the summon spells), if I had to take a 
+specialist, but honestly, I'd
+prefer the good old mage.
+
+WILD MAGE:
+Wild mages are wizards who specialized in the study of wild magic. They have 
+access to spells to
+protect themselves from Wild magic, and bend it to their wills. Wild magic 
+is extremely
+unpredictable, and should be used with caution.
+Abilities: Three wild mage spells: chaos shield, improved chaos shield, and 
+Nahal's reckless
+dweomer. 5% chance of spells exploding in wild surges. Wild surge gives 
+random effects (good or
+bad) instead of the intended spell. Nahal's reckless dweomer can copy the 
+effect of any other spell
+in the mage's book (no need memorizing), but will always go into wild surge, 
+giving it a 1% chance
+of having the actual spell effect. When a wild surge roll is made, the 
+mage's level will be added to
+the roll, since the higher rolls seldom end in a catastrophe. The total wild 
+surge table can be found
+on pg. 40 in the TOB manual. The spells cast by the wild mage also varies in 
+effect as if a caster
+between 5 levels lower, and five levels higher cast it.
+
+Comments:
+If you like gambling, then this is the character for you. With a simple 
+cheat, the wild mage can
+actually become the most powerful person in the game. The wild mage is fun 
+to play, but if you like
+him or not, is very different from person to person.
+
+________________________________________________________________________________
+
+11. SORCERER
+Sorcerers are practitioners of magic who were born with the innate ability 
+to cast spells. It is
+thought that the blood of some powerful creature flows through their veins; 
+perhaps they are the
+spawn of the gods themselves, or even dragons walking in humanoid form. 
+Regardless, the
+Sorcerer's magic is intuitive rather than logical. They know fewer spells 
+than mages, and acquire
+spells more slowly, but they can cast spells more often and have no need to 
+select and prepare spells
+ahead of time. Sorcerers cannot specialize in magic the way mages do. Other 
+than these differences,
+a Sorcerer is very similar to the mage.
+Abilities: Spell Casting, doesn't need to memorize spells.
+Restrictions: cannot wear armor, can only wield daggers, staffs, darts, and 
+slings. Cannot learn new
+spells from scrolls.
+
+Comments:
+Well, if the sorceress had been like the Diablo 2 sorceress, I would have 
+told you that this was the
+best character in the game. I don't really like the fact that she gains 
+spell levels slower than the
+mage, meaning she'll be casting weaker spells all the time. Personally I 
+never really felt that I
+needed to cast more spells in a battle, so I think that all this spell does, 
+is to make your need for
+sleep less. A lot of people feel that she's way more powerful than the mage, 
+so it's your choice.
+________________________________________________________________________________
+
+12. TEAMS:
+
+Remember that these are just suggestions, but you should always have some 
+kind of thief, and some
+kind of cleric or druid in your party. Also a mage is strongly recommended, 
+but you can do with a
+bard, or with non at all, if you feel that magic isn't your playing style. 
+If you choose not to have a
+mage in your party, I would strongly recommend that you have an inquisitor 
+to take down those
+protected mages. For dual and multi class, I can only say that it indeed is 
+an option, and I've heard
+nice things about the Kensai/mage (a super protected Kansai), the 
+Kensai/thief (a backstabbing
+Kensai = dead enemy), the cleric/mage (the hugest spell selection at all!), 
+and also the gnomish
+thief/ illusionist (an invisible thief= backstab, and then backstab again). 
+You can try other
+combinations as well, and I would love to hear about your experience with 
+dual/multi class.
+
+The classical:
+Mage/Sorcerer
+Cleric
+Thief
+Fighter
+Fighter
+Druid
+
+My team:
+Mage (human)
+Thief (halfling)
+Cleric of Lathander (human)
+Totemic druid (half-elf)
+Monk (human)
+Cavalier (human)
+
+Alternative:
+Kensai (half-ogre)
+Bounty hunter (halfling)
+Shaepshifter (half-elf)
+Archer (human)
+Bard (human)
+Cleric/mage (elven)
+
+Damage team (no ac):
+Kensai (half-ogre)
+Monk (human)
+Swashbuckler (halfling)
+Necromancer or Invoker (human)
+Shapeshifter (half-elf)
+Kensai/cleric (dwarf)
+
+Team Lucky:
+Wild mage
+Barbarian
+Berserker
+Jester
+Bounty hunter
+Cleric of Talos
+________________________________________________________________________________
+
+PRACTIC INFO:
+
+Any ideas, suggestions, comments, questions, or critics can be send to:
+davdchansen@hotmail.com
+
+Hope this FAQ helped you.
+
+Dark Wolf.

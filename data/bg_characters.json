@@ -1,0 +1,79 @@
+[
+  {
+    "id": "fighter",
+    "category": "Character Creation",
+    "subcategory": "Fighter",
+    "question": "What is the Fighter class in Baldur's Gate II, including its kits, abilities, restrictions, and strategies?",
+    "text": "The fighter is a champion, swordsman, soldier, and brawler who excels in weapons and tactics, often found at the front lines contending directly with foes. Fighters need to be strong and healthy to survive, with special abilities including Advanced Weapon Specialization and having no restrictions. Most groups benefit from having a fighter since they are the best melee combatants. Recommended ability points include 18 in Dexterity and Constitution, relying less on Strength due to magical belts. The half-ogre race is recommended for its superior Constitution. Fighter kits include Berserker, Wizard Slayer, and Kensai. Berserker may use the Enrage ability, gaining bonuses to hit and damage and immunity to charm, hold, fear, maze, imprisonment, stun, and sleep, but becomes winded afterward with penalties and cannot specialize in ranged weapons; this kit thrives in close combat at the battle's hottest points. The Wizard Slayer applies a cumulative 10% spell failure per hit on opponents and gains magic resistance but cannot use magic items apart from weapons and armor; however, this kit's limitations make it less appealing than a regular fighter. Kensai gains bonuses to hit and damage and has the Kai ability to make all attacks do maximum damage once per day; however, Kensai cannot wear armor, gauntlets, or bracers, nor use missile weapons; thus, high Dexterity and specialization in a single-handed weapon are advised to mitigate low armor class and maximize damage output."
+  },
+  {
+    "id": "ranger",
+    "category": "Character Creation",
+    "subcategory": "Ranger",
+    "question": "What are the main abilities, restrictions, kits, and optimal playstyle for the Ranger class?",
+    "text": "The ranger is a hunter and woodsman skilled in weapons, tracking, and woodcraft, often protecting travelers and peasants. Rangers require strength and wisdom, have Weapon Specialization, Racial Enemy bonuses, Stealth, and charm person/mammal abilities, and must be Human, Elf, or Half-Elf of Good alignment. The racial enemy grants a +4 to THACO against a chosen creature type such as Vampire, Dragon, or Troll. Ranger kits include Archer, Stalker, and Beast Master. The Archer excels with bows, gaining bonuses for missile weapons and called shots that inflict various penalties on targets for 10 seconds, but cannot wear metal armor or specialize in melee weapons beyond normal proficiency; recommended to be strong and kept in the back row with spellcasters. The Stalker serves as a stealthy intelligence gatherer with backstab ability similar to thieves and limited mage spells (haste, protection from normal missiles, minor spell deflection); cannot wear armor greater than studded leather. The Beast Master has affinity for animals and can summon natural creatures but cannot use metal weapons; however, summoned animals are too weak at high levels, making this kit less effective than druids or mages for summoning."
+  },
+  {
+    "id": "paladin",
+    "category": "Character Creation",
+    "subcategory": "Paladin",
+    "question": "What distinguishes the Paladin class and its kits, and how do their abilities and restrictions influence gameplay?",
+    "text": "The paladin is a warrior embodying righteousness, justice, honesty, piety, and chivalry, specialized in combat with abilities including Weapon Specialization, Lay Hands for instant healing, Turn Undead, +2 to all saving throws, Protection from Evil, and Detect Evil. Paladins must be Human and Lawful Good. The class is a decent fighter with healing touch and priest spells for support. Paladin kits include Cavalier, Inquisitor, and Undead Hunter. The Cavalier is a classic knight with bonuses against demons and dragons, immunity to fear and poison, 20% resistance to fire and acid, but may not use missile weapons; this kit excels against strong monsters and is highly recommended. The Inquisitor focuses on hunting evil magic users but sacrifices Lay On Hands, priest spells, and Turn Undead while gaining immunity to hold and charm, true sight, and dispel magic; useful for battles involving mages despite lacking traditional paladin skills. The Undead Hunter specializes in combating undead, immune to hold and level drain, with bonuses to hit and damage undead but cannot use Lay On Hands, making it effective for facing undead hordes though trading off instant healing."
+  },
+  {
+    "id": "barbarian",
+    "category": "Character Creation",
+    "subcategory": "Barbarian",
+    "question": "How does the Barbarian class function in combat, including its abilities, restrictions, and role?",
+    "text": "The barbarian is an excellent, if less disciplined and skilled, warrior who excels through brute force and rage. Special abilities include fast movement, berserker rage which greatly increases toughness and strength temporarily, and high hit points. Restrictions prevent wearing full plate and plate mail armor and limit specialization to normal categories. The barbarian acts as a strong damage absorber or crash dummy, drawing enemy attacks so allies such as paladins can cast spells safely during combat. This makes the barbarian a valuable frontline protector though less specialized than fighters."
+  },
+  {
+    "id": "cleric",
+    "category": "Character Creation",
+    "subcategory": "Cleric",
+    "question": "What are the Cleric class features, specialty kits, and strategies for effective play in Baldur's Gate II?",
+    "text": "Clerics serve as priests fulfilling community spiritual needs and act as both protectors and healers, capable of seeking out and destroying evil. They have special abilities including Turn Undead and spell casting but cannot use bladed or piercing weapons. Upon reaching level 25, clerics gain a holy symbol from their deity granting +1 Strength, percentage magic resistance, and an extra memorized level 6 or 7 spell. Dwarves are recommended due to weapon limitations and charisma penalties mitigated by certain rings. Clerics should generally be positioned in the back line for healing, supporting spells like chant, and offensive spells such as bolt of glory and holy smite; with buffs like draw upon holy might and spiritual hammer, they can also be decent fighters. Specialty cleric kits include Priest of Talos, who casts lightning bolt and Stormshield for elemental and missile protection; Priest of Helm, neutral defenders who cast true sight and summon a seeking sword; and Priest of Lathander, good aligned clerics who cast hold undead and boon of Lathander for healing and combat support. Each kit offers unique spell selections and thematic abilities supporting different alignment and playstyle choices."
+  },
+  {
+    "id": "druid",
+    "category": "Character Creation",
+    "subcategory": "Druid",
+    "question": "What unique abilities, restrictions, and kits define the Druid class, and how do they influence play?",
+    "text": "Druids serve nature and neutrality, using powers to preserve balance and protect the wilderness. They can shapechange and cast spells but are limited to Human or Half-Elf races, wearing only leather armor and bucklers, and wielding clubs, darts, spears, daggers, slings, or staffs. Starting at level 15, druids gain immunity to poison and, from levels 18 to 24, incremental resistance (10-30%) to environmental damage such as fire, cold, electricity, and acid. Druids tend to be more spell-minded than clerics due to limited armor and weapon options and fewer support spells. Kits include Totemic Druid, which gains the ability to summon spirit animals and cannot shapeshift; this is preferred due to stronger summoned allies and the ability to cast spells while animals attack. The Avenger kit is dedicated to fighting those who harm nature, gaining shapechanging into unique creatures and limited mage spells at the cost of reduced strength and constitution; however, the new forms are weak, and the mage spells help salvage the build only partially. The Shapeshifter is a lycanthrope who can metamorphose only into a Werewolf form, cannot wear armor, but is very powerful in combat, especially when gaining greater at level 13, making it the strongest druid kit."
+  },
+  {
+    "id": "monk",
+    "category": "Character Creation",
+    "subcategory": "Monk",
+    "question": "How does the Monk class operate, including special combat abilities, restrictions, and progression?",
+    "text": "Monks pursue perfection through contemplation and action, specializing in unarmed combat without armor. They cannot wear armor or use two-handed weapons but gain martial arts abilities, magic resistance, fast movement, lay on hands healing, and some thief skills such as stealth and trap detection. Their natural armor class improves with levels, starting at 9 and decreasing by 1 every 2 levels. Stunning Blow can be used once per day for every 4 levels, causing multiple attacks in 6 seconds forcing opponents to save or be stunned. Monks can Deflect Missiles, granting them incremental AC benefits versus ranged attacks, and gain +2 saving throw versus spells. Movement speed increases with level every 5 levels. Immunities develop including disease, charm, poison, and immunity to non-magical weapons at higher levels. Their fists are treated as magic weapons with increasing bonuses. At 13th level, they gain Quivering Palm, a powerful one-hand attack that can kill an opponent if they fail a save. Damage dice increase with levels as well. Monks offer multiple attacks per round and high magical resistance, with recommendations for high Dexterity to maximize armor class."
+  },
+  {
+    "id": "thief",
+    "category": "Character Creation",
+    "subcategory": "Thief",
+    "question": "What are the key features, restrictions, and kit variants of the Thief class, and how do they impact gameplay?",
+    "text": "The thief is a skilled pilferer excelling in cunning, nimbleness, and stealth, with seven key abilities including open locks, find traps, pick pockets, move silently, hide in shadows, detect illusions, and set traps. At level one, thieves receive 30 points to allocate among skills, gaining 20 more each level. They cannot be Lawful Good, are limited to leather or studded leather armor, must use only bucklers for shields, and can wield a defined set of light weapons. Halfling is the recommended race due to dexterity bonuses. Thieves are essential to any party for trap removal and can develop into backstabbers or trap specialists. Kit variants include Assassin, which uses poison and combat bonuses but suffers penalties to thief skills and is generally less favored; Bounty Hunter, skilled in trap setting with special traps cast at increasing levels but with penalties to thief skills; and Swashbuckler, combining agility and combat bonuses but unable to backstab. Swashbucklers excel in two-weapon fighting but sacrifice backstab damage. In addition to their core skills, thieves gain new abilities in Throne of Bhaal, enhancing their versatility."
+  },
+  {
+    "id": "bard",
+    "category": "Character Creation",
+    "subcategory": "Bard",
+    "question": "What distinguishes the Bard class in Baldur's Gate II, including their abilities, restrictions, and kit options?",
+    "text": "Bards are roguish characters whose strength lies in personality, wit, and versatility. They are talented musicians and repositories of lore, learning a bit about many things. They are jack-of-all-trades but master of none. Bards can pick pockets, cast spells, perform bard songs, and have a high lore ability. Restrictions include being Human or Half-Elf only, having a partially neutral alignment, and limitations on shield and armor use (no armor heavier than chain mail). Bards excel at identifying items and use bard songs to impose effects on enemies or bolster allies. Their spells tend to be low-level but can influence battles significantly through effects like chaos or greater malison. Bards have special abilities from the Throne of Bhaal expansion, enhancing their effectiveness. Bard kits include the Blade, an expert fighter with offensive spin and defensive stance but weaker bardic skills; and the Jester, who uses songs to confuse enemies rather than buff allies, effective except against undead. The choice depends on preference between combat focus or crowd control through confusion."
+  },
+  {
+    "id": "mage",
+    "category": "Character Creation",
+    "subcategory": "Mage",
+    "question": "What defines the Mage class, including general and specialist types, abilities, restrictions, and recommendations?",
+    "text": "The mage aims to master magical energies through study and research, relying on knowledge and wit for survival. Mages can learn a broad variety of spells and are suited for adventuring with diverse magical needs. Special abilities include spell casting. Restrictions are that mages cannot wear armor and can only wield daggers, staffs, darts, and slings. Recommended ability points are 18 in Intelligence, with a high Wisdom being beneficial for spells like wish and limited wish. Mages are powerful, able to cast game-changing spells such as invisibility, time stop, and summoning. Specialist mages focus on particular schools of magic (Abjurer, Conjurer, Diviner, Enchanter, Illusionist, Invoker, Necromancer, and Transmuter), gaining an extra spell slot per level but cannot learn spells from opposition schools and cannot multitask specialization with multi-classing except if gnomish Fighter/Illusionists. Human specialists may dual class. The Necromancer and Conjurer specialists are particularly noted for powerful spells, but the generalist mage remains a strong choice. A Wild Mage subtype studies unpredictable wild magic, has some unique protective spells, and a chance for wild surges causing random effects. Wild mages can be very powerful but are riskier to play."
+  },
+  {
+    "id": "sorcerer",
+    "category": "Character Creation",
+    "subcategory": "Sorcerer",
+    "question": "How does the Sorcerer class compare to the Mage, and what are its characteristics, abilities, and limitations?",
+    "text": "Sorcerers are innate practitioners of magic, believed to have powerful bloodlines. Their magic is intuitive rather than learned, enabling them to cast spells more often without preparation but with fewer spells known and slower spell level advancement than mages. Sorcerers cannot specialize in magic schools. Abilities include spell casting without the need to memorize spells. Restrictions mirror those of mages: cannot wear armor, can only wield daggers, staffs, darts, and slings, and cannot learn new spells from scrolls. The slower gain in spell levels often means casting weaker spells longer, which may lessen their effectiveness compared to mages, though some players find sorcerers more powerful. Personal preference will dictate the choice between sorcerers and mages."
+  }
+]

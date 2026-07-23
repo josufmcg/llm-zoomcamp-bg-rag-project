@@ -82,14 +82,14 @@ src/bg_rag/                    # Main Python package
 ### Database Conventions
 - Single PostgreSQL database named `bg_rag`.
 - pgvector extension for vector columns (`vector(384)` type).
-- MD5 hash (`doc_hash` column) for document deduplication — computed from `category + subcategory + question + text`.
+- MD5 hash (`doc_id` column) for document deduplication — computed from `category + subcategory + text`.
 - Use `SERIAL PRIMARY KEY` for auto-increment IDs.
 - Use `TIMESTAMP WITH TIME ZONE` for all timestamp columns.
 - Full-text search via `tsvector` column with GIN index.
 
 ### Search Implementation
 - **Vector search:** Use pgvector's `<=>` operator (cosine distance). Compute `1 - distance` for similarity score.
-- **Keyword search:** Use `to_tsvector('english', ...)` and `plainto_tsquery('english', ...)` with `ts_rank()`. Weight fields: subcategory=A, question=B, text=C.
+- **Keyword search:** Use `to_tsvector('english', ...)` and `plainto_tsquery('english', ...)` with `ts_rank()`. Weight fields: subcategory=A, text=B.
 - **Hybrid search:** Reciprocal Rank Fusion (RRF) with k=60: `score = Σ 1/(60 + rank)`. Normalize to 0-1 range.
 
 ### RAG Pipeline
