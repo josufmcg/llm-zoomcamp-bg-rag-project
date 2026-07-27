@@ -1,4 +1,4 @@
-.PHONY: setup db init-db ingest dev-api dev-streamlit build up down logs ground-truth evaluate sample-data
+.PHONY: setup db init-db ingest dev-api dev-streamlit dev-dashboard build up down logs ground-truth evaluate sample-data
 
 # ── Setup ──────────────────────────────────────────
 setup:
@@ -27,6 +27,9 @@ dev-api:
 
 dev-streamlit:
 	cd src && uv run streamlit run bg_rag/frontend/app.py --server.port 8501
+
+dev-dashboard:
+	cd src && uv run streamlit run bg_rag/frontend/dashboard.py --server.port 8502
 
 # ── Docker ─────────────────────────────────────────
 build:
