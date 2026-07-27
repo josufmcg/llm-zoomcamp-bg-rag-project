@@ -1,7 +1,14 @@
 apiVersion: 1
 
+# Remove any existing PostgreSQL datasource before provisioning,
+# so re-provisioning with a new uid is idempotent.
+deleteDatasources:
+  - name: PostgreSQL
+    orgId: 1
+
 datasources:
   - name: PostgreSQL
+    uid: bg-rag-postgres
     type: postgres
     access: proxy
     url: postgres:5432
